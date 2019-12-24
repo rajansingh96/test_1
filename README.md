@@ -1,2 +1,2 @@
 # test_1
-Learning git
+Seeing how to clone this repository.
